@@ -8,7 +8,7 @@ The web interface is built with Tailwind CSS and Lucide icons, featuring dark an
 
 ## Live Deployment
 
-The application is deployed and can be accessed directly at: [QuestCraft RPG](https://questcraft-simple-ai-rpg-platform-with-credit-system.onrender.com)
+The application is deployed and can be accessed directly at: [QuestCraft RPG](https://questcraft-simple-ai-rpg-platform-with.onrender.com/)
 
 ---
 
